@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+---
+permalink: /history
+---
 
-You can use the [editor on GitHub](https://github.com/amsdc/amsdc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# History
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AMSDC has been making simple software solutions since 2016. The first product developed was Picture Viewer, a simple solution to view files. Coded in Visual Basic, the application featured several image-viewing capabilities. It was discontinued in 2018. 
 
-### Markdown
+## AMSDC Cloud
+In 2020, the pandemic started and learning shifted online. Hence, there was a need for a simple, private, quick and reliable file uploading service. This led to the development of a personal cloud storage library, in PHP. A GUI front-end was created for the same. It was hosted in a HP 2000 laptop which ran Ubuntu 18.04 LTS. Later on, it was secured by a login system. This also led to the kickstart of few other projects, such as Fixed Links for Zoom Meetings. The website had to be taken down in January 2021 due to increasing running costs, and declining usage as schools started using Google Classroom by then.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amsdc/amsdc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## School Website
+In 2021, Advaith created the school website. However, this was an independent undertaking, and not connected to AMSDC in any manner.
