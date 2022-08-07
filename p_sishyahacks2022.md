@@ -12,8 +12,8 @@ Last Updated | July 3rd, 2022
 Latest Version | 1.0.0
 License | Closed Source
 Programming Language | Python 3.10
-Language | GUI
-Type | CLI
+Language | English
+Type | GUI game
 Copyright | (c) 2022 Advaith Menon and Chandran Kumar
 Repository | Closed Source
 Installer | Not Available
