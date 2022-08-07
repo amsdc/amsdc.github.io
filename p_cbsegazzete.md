@@ -14,3 +14,6 @@ License | MIT
 Programming Language | Python 3.10
 Language | English
 Type | CLI
+Copyright | (c) 2022 AMSDC
+Repository | [GitHub](https://github.com/amsdc/cbseranklist)
+Installer | Not Available
