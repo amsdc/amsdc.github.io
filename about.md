@@ -1,5 +1,5 @@
 ---
-permalink: /history
+permalink: /about
 ---
 
 # History
