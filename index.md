@@ -6,7 +6,6 @@ permalink: /
 At AMSDC, we offer high-quality, cutting-edge futuristic software.
 
 # Pages
-* [About](/about)
 * [Products](/products)
   * [Picture Viewer](/products/picv)
   * [AMSDC FileChest](/products/filechest)
