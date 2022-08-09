@@ -8,8 +8,8 @@ Details | Value
 --|--
 Name | Zoom Autojoiner GUI
 Release Date | July 31st, 2021
-Last Updated | July 23rd, 2022
-Latest Version | 0.5.1
+Last Updated | August 09th, 2022
+Latest Version | 0.5.2
 License | GNU GPL v3
 Programming Language | Python 3
 Language | English, Hindi (coming soon)
