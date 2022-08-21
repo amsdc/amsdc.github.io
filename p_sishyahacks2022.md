@@ -19,7 +19,14 @@ Repository | [GitHub](https://github.com/amsdc/retrogame)
 Installer | Not Available
 
 ## About "Meteorite Shower"
-**TL;DR** A simple retro video game involving colleting of articles and avoiding obstacles. Something like Chrome's T-Rex game in a vertical format, combined.
+**TL;DR** A simple retro video game involving colleting of articles and avoiding obstacles. Something like Chrome's T-Rex game in a vertical format.
+
+The game was created in a two day cultural event (Sishya Hacks) at Sishyamrita - 2022. With zero knowledge of gaming development, the team learned fairly enough PyGame to create simple retro games. 
+
+You may ask, why PyGame and not Unity, when the latter is more feature-rich? The reason is because the developers involved in this project were Pythonistas, and we couldn't learn C# + Unity in < 24 hours 
+
+### Project Maintenance
+As the developers are in a crucial academic year, they will not be devoting time to this project. However, they may consider improving it once that year is over.
 
 ## Playing the game
 This is a game where the player (the green ball which we call bob) has to excape from the stones/meteors falling on him.
