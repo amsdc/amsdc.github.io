@@ -2,4 +2,6 @@
 permalink: /_sitemap.private
 ---
 
-{{ site.pages }}
+{% for item in site.pages %}
+    {{ item.permalink }}
+{% endfor %}
