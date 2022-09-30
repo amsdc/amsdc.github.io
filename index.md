@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: Homepage
 ---
 
 <div align="center">
