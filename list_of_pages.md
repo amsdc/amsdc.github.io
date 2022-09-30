@@ -1,5 +1,5 @@
 ---
-permalink: /_/tmp/sitemap
+permalink: /_/tmp/sitemap.html
 ---
 
 {% for item in site.pages %}
