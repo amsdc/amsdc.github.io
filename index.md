@@ -2,18 +2,12 @@
 permalink: /
 ---
 
-# Welcome!
-At AMSDC, we offer high-quality, cutting-edge futuristic software.
+<div align="center">
+ <img src="/logo.png" />
+ <h4><i>It's Awesome, Modern, Stable, Dexterous and Cool!</i></h4>
+</div>
 
-# Pages
 * [About Us](/about)
 * [Products](/products)
-  * [Picture Viewer](/products/picv)
-  * [AMSDC FileChest](/products/filechest)
-  * [Cryptocurrency Portfolio](/products/cryptoportfolio)
-  * [Zoom Autojoiner GUI](/products/zoom-autojoiner-gui)
-  * [MyPHP](/products/davchennai/myphp)
-  * [Meteorite Shower](/products/sishyahacks2022)
-  * [CBSE Gazzete to Excel](/products/davchennai/cbsegazzete)
 * [GitHub](https://github.com/amsdc)
 * [Contact](/contact)
