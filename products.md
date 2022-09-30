@@ -9,10 +9,17 @@ permalink: /products
 * [Picture Viewer](/products/picv)
 * [AMSDC FileChest](/products/filechest)
 * [Google Meet Unofficial Client](/products/gmeetwinclient)
+
+
 ### Security
 * [Cryptocurrency Portfolio](/products/cryptoportfolio) Crypto fan? Use this simple project to track your profits and losses.
+
+
 ### Supported
 * [Zoom Autojoiner GUI](/products/zoom-autojoiner-gui) Join Zoom Meetings quickly. Useful if you have many meetings to join.
+
+
+
 ### Future
 Our biggest project yet:
 * [Flight Information Display System](/products/fids/about)
