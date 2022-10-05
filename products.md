@@ -4,6 +4,8 @@ permalink: /products
 
 # Catalogue
 
+[Some more projects can be found here](https://advaith.pythonanywhere.com/amsdc/software/listAll?sortBy=released&order=asc)
+
 ## AMSDC
 ### Deprecated
 * [Picture Viewer](/products/picv)
