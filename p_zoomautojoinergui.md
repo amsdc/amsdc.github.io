@@ -8,14 +8,14 @@ Details | Value
 --|--
 Name | Zoom Autojoiner GUI
 Release Date | July 31st, 2021
-Last Updated | August 14th, 2022
-Latest Version | 0.5.4
+Last Updated | October 20th, 2022
+Latest Version | 0.5.5
 License | GNU GPL v3
 Programming Language | Python 3
-Language | English, Hindi (coming soon)
+Language | English
 Type | GUI (Automation)
 Copyright | (c) 2021-22 Advaith Menon/AMSDC
-Repository | [Old Repo (not updated)](https://github.com/advaithm582/zoom-autojoiner-gui)
+Repository | Coming Soon
 Installer | [Zoho WorkDrive](https://workdrive.zohopublic.in/folder/gc2944a6c06e96e4543f3b55066196a4bd566?layout=list)
 
 ## Installation
@@ -34,3 +34,10 @@ Installer | [Zoho WorkDrive](https://workdrive.zohopublic.in/folder/gc2944a6c06e
 7. When prompted, fill out the configuration options as desired. You can also enable extensions in the `Extensions Configuration` tab.<br>![image](https://user-images.githubusercontent.com/83835839/184689607-7a88bea3-e34d-4b64-96fb-972473489c59.png)
 
 8. Finish the installation.
+
+## What's new
+### v0.5.5
+* Reorganized config tool, with help strings. <br> ![image](https://user-images.githubusercontent.com/83835839/197012169-6a2c3ec8-343b-4c73-a187-0ca1846186e0.png)
+* Reorganized menu structure - The meetings menu has moved under the Application main menu, thus removing unnecessary clutter. For developers: The menu bar helper function is no longer used. Rather, the menu is now a plain Tkinter menu. This means the menu objects are programmatically exposed and can be accessed in the API. The docs will be updated in accordance with the same.
+* About dialog box - Not sure which version you're on? No worries, the new About box (Application &rarr; About) will help you in identifying the same with ease. <br> ![image](https://user-images.githubusercontent.com/83835839/197012969-847400fb-6c43-4b2f-a4db-356a23df7b06.png)
+* New system tray - **in beta**. Use this if you often press the &times; button and close the autojoiner. To close the application when the system tray icon is on, first quit the app (Application &rarr; quit), and then only exit the system tray. DO NOT DO THE REVERSE, or else the app will run in background with no way to exit (other than the Task Manager). Recommended to keep this off. 
