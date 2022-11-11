@@ -1,5 +1,7 @@
 ---
 permalink: /products/zoom-autojoiner-gui
+layout: redirect
+redirect_url: https://advaith.pythonanywhere.com/amsdc/software/getDetails?productID=autojoiner
 ---
 
 # Zoom Autojoiner GUI
