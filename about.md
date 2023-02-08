@@ -21,4 +21,4 @@ In 2021, Advaith created the school website. However, this was an independent un
 There was also a need for a backend for dynamically update content, which led to the creation of the Digitally, Artificially Intelligent, Robust, Versatile Information System (D.A.R.V.I.S.). D.A.R.V.I.S. was based on MyPHP.
 
 ## Zoom Autojoiner
-During COVID-19, Advaith had many online classes to attend. Hence, he created the Zoom Autojoiner GUI to do exactly that. Currently, it is the only software being maintained by the company.
+During COVID-19, Advaith had many online classes to attend. Hence, he created the Zoom Autojoiner GUI to do exactly that.
