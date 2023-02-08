@@ -19,10 +19,7 @@ permalink: /products
 
 ### Supported
 * [Zoom Autojoiner GUI](/products/zoom-autojoiner-gui) Join Zoom Meetings quickly. Useful if you have many meetings to join.
-
-
-
-
+* [Gurutracker](/products/gurutracker) Have many assignments, and can't find the one you want? This software can help you manage your repository of worksheets, assignments and tests.
 
 ## Sishya Hacks 2022
 * [Meteorite Shower](/products/sishyahacks2022) The game won the 1st place in Sishya Hacks, 2022.
